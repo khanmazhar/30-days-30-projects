@@ -7,5 +7,4 @@ On day 1, I created a simple form using HTML, CSS and added validation to it usi
 
 
 
-![project1](https://user-images.githubusercontent.com/66962188/91687065-c463c400-eb13-11ea-9115-a75be8f34550.png)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f7fca4a4-14be-42f5-9e56-128b94e32361/deploy-status)](https://app.netlify.com/sites/hopeful-engelbart-07ddd4/deploys)
